@@ -37,3 +37,4 @@ haha={
     False:"its false"
 }
 print(haha[True])
+print("ты инвалид P.S by Python")
